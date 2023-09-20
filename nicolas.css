@@ -1,26 +1,52 @@
 h1 {
     text-align:center;
-    background-color: rgb(167, 11, 11);
+    background-color: aqua;
+}
+h2{
+    text-align: center;
 }
 h3{
-    background-color: rgb(150, 25, 143);
+    font-style: oblique;
+    background-color: blue;
+    text-align: center;
 }
 
 p {
     text-align: center;
     font-size: medium;
 }
-
 strong {
-    font-size: medium;
+    font-size: larger;
 }
 
 body {
-    background-color: rgb(100, 26, 168);
+    background-color: blueviolet;
+}
+.imagem1 {
+    width: 200px;
+}
+.imagemcentralizada {
+ text-align: center;
 }
 
-.lista {
-    display: inline-block;
-    padding: 10%;
-    margin-right: 10%;
+.unicornio {
+    background-color: forestgreen
+
 }
+.brilho {
+   color: aqua;
+    font-style: italic
+}
+.lista {
+        display: inline-block;
+        padding: 5%;
+        margin-right: 10%;
+    }
+
+nav a {
+    text-transform: uppercase
+    color: #000000  
+    font-weight: bold
+    font-size: 22px
+    text-decoration: none
+        }
