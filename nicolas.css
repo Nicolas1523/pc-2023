@@ -1,13 +1,13 @@
 h1 {
     text-align:center;
-    background-color: aqua;
+    background-color: rgb(255, 255, 255);
 }
 h2{
     text-align: center;
 }
 h3{
     font-style: oblique;
-    background-color: blue;
+    background-color: rgb(207, 47, 47);
     text-align: center;
 }
 
@@ -20,7 +20,7 @@ strong {
 }
 
 body {
-    background-color: blueviolet;
+    background-color: rgb(90, 141, 130);
 }
 .imagem1 {
     width: 200px;
