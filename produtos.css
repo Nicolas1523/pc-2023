@@ -1,6 +1,6 @@
 nav a{
     text-transform: uppercase;
-    color: darkorchid;
+    color: rgb(82, 25, 187);
     font-weight: 300;
     font-size: 100%;
     text-decoration: none ;
@@ -11,22 +11,30 @@ nav a{
 }
 
 .centralizar {
-  text-align: center
+    text-align: center;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    border-color: rgb(10, 59, 124);
+    border-width: 30px;
+    border-style: solid;
 }
 
 body {
-  background-color: aquamarine;
+  background-color: rgb(60, 168, 240);
   text-align:center;
 }
 
 .lista li{
   display: inline-block;
   vertical-align: top;
-  background-color: #FFFFFF;
+  background-color: #1f2063;
   margin: o 1.5%;
   padding: 30px 20px;
   box-sizing: border-box;
-  border-color: pink;
-  border-width: 2px;
+  border-width: 20px;
+  border-color: rgb(5, 63, 110);
   border-style: solid;
+  
 }
